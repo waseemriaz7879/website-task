@@ -1,0 +1,11 @@
+ @media screen and (max-wigth: 991px) {
+    .nav-toggle {
+        display: block;
+        margin-right: 20px;
+    }
+
+    body {
+        /* flex-direction: column; */
+        overflow: hidden;
+    }
+ }
